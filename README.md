@@ -18,14 +18,9 @@ Mi objetivo es aplicar mis conocimientos en el desarrollo de aplicaciones y cont
 - **Prácticas en CIP FP Batoi (Marzo - Junio 2021):** Gestión y reparación de equipos informáticos, soporte técnico, administración de redes y configuración de servidores locales.
 - **Desarrollador Full Stack en Z-Bombilla (Marzo - Julio 2024):** Desarrollo de una aplicación de escritorio para la gestión de inventario y envíos, uso avanzado de JavaFX, gestión de bases de datos con SQL/HQL.
 
-## Proyectos Destacados
-
-- **[Nombre del Proyecto 1](enlace-al-repositorio):** Breve descripción del proyecto.
-- **[Nombre del Proyecto 2](enlace-al-repositorio):** Breve descripción del proyecto.
-
 ## Enlaces
 
-- **[Currículum Vitae]((https://docs.google.com/document/d/1a8zDmukTsoBjjJRlNTG-JwvmiiT0-qgkpLEn0dusWsY/edit?usp=sharing)**
+- **[Currículum Vitae](https://docs.google.com/document/d/1a8zDmukTsoBjjJRlNTG-JwvmiiT0-qgkpLEn0dusWsY/edit?usp=sharing)**
 - **[Perfil de LinkedIn](https://www.linkedin.com/in/samuel-pastor-pinillos/)**
 
 ## Contacto
