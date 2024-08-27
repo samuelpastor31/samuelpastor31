@@ -25,7 +25,7 @@ Mi objetivo es aplicar mis conocimientos en el desarrollo de aplicaciones y cont
 
 ## Contacto
 
-Si quieres ponerte en contacto conmigo, no dudes en enviarme un correo a [samuelpastorpinillos@gmail.com](mailto:samuelpastorpinillos@gmail.com).
+Si quieres ponerte en contacto conmigo, no dudes en enviarme un correo a [samuelpastorpinillos@gmail.com](mailto:samuelpastorpinillos@gmail.com) o llamándome al 633473119.
 
 ¡Gracias por visitar mi perfil!
 
