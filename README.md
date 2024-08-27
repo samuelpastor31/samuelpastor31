@@ -1,16 +1,37 @@
-## Hi there 👋
+# Samuel Pastor Pinillos
 
-<!--
-**samuelpastor31/samuelpastor31** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+¡Hola! Soy Samuel Pastor Pinillos, un desarrollador de aplicaciones multiplataforma con una sólida experiencia en sistemas informáticos y una gran pasión por la tecnología. Me especializo en el desarrollo con Java y JavaFX, y siempre estoy buscando nuevas oportunidades para aprender y crecer profesionalmente.
 
-Here are some ideas to get you started:
+## Acerca de mí
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Mi objetivo es aplicar mis conocimientos en el desarrollo de aplicaciones y continuar desarrollando nuevas habilidades en un entorno innovador y desafiante. Tengo experiencia en el desarrollo de aplicaciones de escritorio, así como en la gestión de bases de datos y el trabajo en equipo utilizando métodos ágiles.
+
+## Competencias
+
+- **Lenguajes de Programación:** Java/JavaFX, C#, Python, Dart/Flutter, SQL, HTML/CSS, JavaScript
+- **Frameworks y Herramientas:** React Native, Expo, Spring Boot, NetBeans, Android Studio, IntelliJ, Eclipse, Visual Studio Code
+- **Bases de Datos:** MySQL Workbench, DBeaver, XAMPP
+- **Gestión de Redes y Sistemas:** Instalación y mantenimiento de sistemas operativos, gestión de redes locales, soporte técnico
+
+## Experiencia
+
+- **Prácticas en CIP FP Batoi (Marzo - Junio 2021):** Gestión y reparación de equipos informáticos, soporte técnico, administración de redes y configuración de servidores locales.
+- **Desarrollador Full Stack en Z-Bombilla (Marzo - Julio 2024):** Desarrollo de una aplicación de escritorio para la gestión de inventario y envíos, uso avanzado de JavaFX, gestión de bases de datos con SQL/HQL.
+
+## Proyectos Destacados
+
+- **[Nombre del Proyecto 1](enlace-al-repositorio):** Breve descripción del proyecto.
+- **[Nombre del Proyecto 2](enlace-al-repositorio):** Breve descripción del proyecto.
+
+## Enlaces
+
+- **[Currículum Vitae]((https://docs.google.com/document/d/1a8zDmukTsoBjjJRlNTG-JwvmiiT0-qgkpLEn0dusWsY/edit?usp=sharing)**
+- **[Perfil de LinkedIn](https://www.linkedin.com/in/samuel-pastor-pinillos/)**
+
+## Contacto
+
+Si quieres ponerte en contacto conmigo, no dudes en enviarme un correo a [samuelpastorpinillos@gmail.com](mailto:samuelpastorpinillos@gmail.com).
+
+¡Gracias por visitar mi perfil!
+
+
