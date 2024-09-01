@@ -2,10 +2,6 @@
 
 ¡Hola! Soy Samuel Pastor Pinillos, un desarrollador de aplicaciones multiplataforma con una sólida experiencia en sistemas informáticos y una gran pasión por la tecnología. Me especializo en el desarrollo con Java y JavaFX, y estoy buscando nuevas oportunidades para comprometerme en un proyecto y aprender y crecer profesionalmente.
 
-## 🌟 Acerca de mí
-
-Mi objetivo es aplicar mis conocimientos en el desarrollo de aplicaciones y continuar desarrollando nuevas habilidades en un entorno innovador y desafiante. Tengo experiencia en el desarrollo de aplicaciones de escritorio, así como en la gestión de bases de datos y el trabajo en equipo utilizando métodos ágiles.
-
 ## 🛠️ Competencias
 
 - **Lenguajes de Programación:** Java/JavaFX, C#, Python, Dart/Flutter, SQL, HTML/CSS, JavaScript
