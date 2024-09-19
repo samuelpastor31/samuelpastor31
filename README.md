@@ -11,8 +11,9 @@
 
 ## 💼 Experiencia
 
-- **Prácticas en CIP FP Batoi (Marzo - Junio 2021):** Gestión y reparación de equipos informáticos, soporte técnico, administración de redes y configuración de servidores locales.
 - **Desarrollador Full Stack en Z-Bombilla (Marzo - Julio 2024):** Desarrollo de una aplicación de escritorio para la gestión de inventario y envíos, uso avanzado de JavaFX, gestión de bases de datos con SQL/HQL.
+- **Prácticas en CIP FP Batoi (Marzo - Junio 2021):** Gestión y reparación de equipos informáticos, soporte técnico, administración de redes y configuración de servidores locales.
+
 
 ## 🔗 Enlaces
 
